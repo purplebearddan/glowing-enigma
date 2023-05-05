@@ -1,2 +1,10 @@
 # glowing-enigma
-JS Gap Fill 2
+
+## Subjects to cover
+
+- DOM parents and children X
+- onclick and eventlistener X
+- arr.map() X
+- callbacks X
+- Burger Menu
+  - a responsive navbar with burger menu
