@@ -1,4 +1,4 @@
-# glowing-enigma
+# JS Gap Fill Session
 
 ## Subjects to cover
 
